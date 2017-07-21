@@ -1,0 +1,1 @@
+include ':app', ':ljr-annotations', ':ljr-compiler', ':ljr-core', ':ljr-ec'

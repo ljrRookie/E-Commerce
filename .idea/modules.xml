@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-commerce.iml" filepath="$PROJECT_DIR$/e-commerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ljr-annotations/ljr-annotations.iml" filepath="$PROJECT_DIR$/ljr-annotations/ljr-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ljr-compiler/ljr-compiler.iml" filepath="$PROJECT_DIR$/ljr-compiler/ljr-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ljr-core/ljr-core.iml" filepath="$PROJECT_DIR$/ljr-core/ljr-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ljr-ec/ljr-ec.iml" filepath="$PROJECT_DIR$/ljr-ec/ljr-ec.iml" />
+    </modules>
+  </component>
+</project>
